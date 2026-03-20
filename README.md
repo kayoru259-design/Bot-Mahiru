@@ -1,2 +1,2 @@
-# bot-Mahiru
-bot Mahiru
+# Bot-Mahiru
+Bot Mahiru
